@@ -19,7 +19,7 @@ The challenge involves the following tasks:
 ## Project Goals
 
 1. Employee Class:
-   - Fields: ID (1D), name, salary.
+   - Fields: ID , name, salary.
    - Ability to print employee details (ID, name, salary).
    
 2. Department Class:
